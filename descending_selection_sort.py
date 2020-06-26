@@ -1,5 +1,11 @@
+# Ken Valverde
+# 1527936
+
+
 # Define selection_sort_descend_trace() function.
 def selection_sort_descend_trace(list):
+
+    # Bubble sort algorithm
     for i in range(len(list) - 1):
         max_index = i
         for j in range(i + 1, len(list)):
