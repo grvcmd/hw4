@@ -1,3 +1,7 @@
+# Ken Valverde
+# 1527936s
+
+
 # Exception handling to detect input string vs. integer
 
 # Program will read a list of single-word names and ages (ending with -1)
