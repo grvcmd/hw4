@@ -1,7 +1,8 @@
 
 
 # LAB 12.7
-
+# Ken Valverde
+# 1527936
 
 # Define fat_burning_heart_rate() function.
 def fat_burning_heart_rate(age):
